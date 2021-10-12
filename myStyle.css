@@ -1,0 +1,26 @@
+/* Body */
+body {
+    margin: 2%;
+}
+/*end Body */
+
+/* h1 and h2 */
+h1, h2 {
+  background-color: orangered;
+  text-align: center;
+}
+/* end h1 and h2 */
+
+/* p */
+p {
+  color: maroon;
+  font-family: "Times New Roman", Times, serif;
+}
+/* End p */
+
+/* div */
+div {
+  width: 300px;
+  height: 300px;
+}
+/* End div */
