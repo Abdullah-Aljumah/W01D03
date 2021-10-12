@@ -11,12 +11,14 @@ body {
 }
 /* End img-1 */
 
+/* list */
 .lis ul {
   display: flex;
   background-color: orangered;
   padding: 3px;
-
 }
+/* End list */
+
 /* hover */
 .home ol:hover {
   background-color: white;
@@ -37,7 +39,7 @@ body {
 /* More */
 #pMore {
   float: right;
-  text-decoration-style:;
+  text-decoration-style: ;
   display: inline-block;
   background-color: orangered;
 }
