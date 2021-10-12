@@ -11,11 +11,17 @@ body {
 }
 /* End img-1 */
 
-/* Home */
-#home {
+.lis ul {
+  display: flex;
   background-color: orangered;
+  padding: 3px;
+
 }
-/* End home */
+/* hover */
+.home ol:hover {
+  background-color: white;
+}
+/* End hover */
 
 /* flex container */
 .flex-container {
@@ -27,16 +33,11 @@ body {
   text-decoration: none;
   /* End flex container */
 }
-/* hover  */
-span:hover {
-  color: white;
-}
-/* End hover */
 
 /* More */
 #pMore {
-  float:right;
-  text-decoration-style: ;
+  float: right;
+  text-decoration-style:;
   display: inline-block;
   background-color: orangered;
 }
