@@ -1,0 +1,42 @@
+/* Body */
+body {
+  width: 65%;
+  margin: auto;
+}
+/* End body */
+
+/* img-1 */
+#img-1 {
+  width: 100%;
+}
+/* End img-1 */
+
+/* Home */
+#home {
+  background-color: orangered;
+}
+/* End home */
+
+/* flex container */
+.flex-container {
+  background-color: beige;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 3px;
+  text-decoration: none;
+  /* End flex container */
+}
+/* hover  */
+span:hover {
+  color: white;
+}
+/* End hover */
+
+/* More */
+#pMore {
+  text-decoration-style: ;
+  display: inline-block;
+  background-color: orangered;
+}
+/* End more */
